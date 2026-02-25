@@ -5,10 +5,10 @@ Maintainer: Nebo Labs <support@nebolabs.dev>
 Installed-Size: 49946
 Depends: libwebkit2gtk-4.1-0, libgtk-3-0
 Filename: pool/main/nebo_0.1.11_arm64.deb
-Size: 16867882
-MD5sum: fd291a98777680ded26cbf760f8e6943
-SHA1: 0dbed9a76f2a5860cf04b6886d8fedf5bafae85d
-SHA256: 24843f4198948379bc6a083c0a4b12f26a02dc628169d9ee3c555409b4b2199b
+Size: 16867894
+MD5sum: d299757d16071756cc5216ab982bf1f2
+SHA1: d85f538548fc35546b8384c1a7273ca61f5bb59a
+SHA256: 82a353afee7cca0138effac392b920c0002d0754ad76a32d260e0fc4557629b1
 Section: utils
 Priority: optional
 Homepage: https://github.com/NeboLoop/nebo
