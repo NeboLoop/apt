@@ -1,14 +1,14 @@
 Package: nebo
-Version: 0.1.7
-Architecture: amd64
+Version: 0.1.10
+Architecture: arm64
 Maintainer: Nebo Labs <support@nebolabs.dev>
-Installed-Size: 52532
+Installed-Size: 49946
 Depends: libwebkit2gtk-4.1-0, libgtk-3-0
-Filename: pool/main/nebo_0.1.7_amd64.deb
-Size: 18128444
-MD5sum: d900d3e944d085cce4be9cf5c2b32a57
-SHA1: e2284abac4111a07d35aeb76d6bf3d15d6f836af
-SHA256: b1500b77cd246d161364aa5d2d1bab9718473903ec0a011b3855345923e2e006
+Filename: pool/main/nebo_0.1.10_arm64.deb
+Size: 16867904
+MD5sum: af2b683fca42668e64f0bb0924875ca8
+SHA1: 18303b9bf6e63efc6dd01f40b031d0fbb0622502
+SHA256: 831c923907b9bd7cc9efa87bbb9b6ca2b3c25b1e80ea5a3c49cd950304ca7663
 Section: utils
 Priority: optional
 Homepage: https://github.com/NeboLoop/nebo
