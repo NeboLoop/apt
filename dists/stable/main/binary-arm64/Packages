@@ -1,17 +1,15 @@
 Package: nebo
-Version: 0.1.12
+Version: 0.2.0
 Architecture: amd64
-Maintainer: Nebo Labs <support@nebolabs.dev>
-Installed-Size: 53041
-Depends: libwebkit2gtk-4.1-0, libgtk-3-0
-Filename: pool/main/nebo_0.1.12_amd64.deb
-Size: 18332360
-MD5sum: 5ffde192daaa7bf43b4f2ef4b8b1a36b
-SHA1: f082d82e5495d38b24e1aba8b64c379f44f11c13
-SHA256: e23c367753261a60bafbcfba77377528ded3a14794568673a7bd1cab8a1acf98
-Section: utils
+Maintainer: neboloop
+Installed-Size: 32140
+Depends: libappindicator3-1, libwebkit2gtk-4.1-0, libgtk-3-0
+Filename: pool/main/Nebo_0.2.0_amd64.deb
+Size: 14948516
+MD5sum: 985795178b9c63a99d3f515e38b5d55a
+SHA1: a0a8738a145274c1412a3f553c69861eb8722d87
+SHA256: 0af5fa37e8aca77c799c5110b29e31e8e9348f4e55c83e4e0e5f9455d834468e
 Priority: optional
-Homepage: https://github.com/NeboLoop/nebo
-Description: AI agent with web UI - your personal AI companion
-License: MIT
+Description: (none)
+ (none)
 
