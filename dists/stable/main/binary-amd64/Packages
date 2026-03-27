@@ -1,14 +1,14 @@
 Package: nebo
-Version: 0.4.2
-Architecture: amd64
+Version: 0.4.3
+Architecture: arm64
 Maintainer: neboloop
-Installed-Size: 33265
+Installed-Size: 29002
 Depends: libappindicator3-1, libwebkit2gtk-4.1-0, libgtk-3-0
-Filename: pool/main/Nebo_0.4.2_amd64.deb
-Size: 15570014
-MD5sum: 7bfa3f10a0931d81484670348347d6bf
-SHA1: 4d628cad92096e69aaa7dbef601ecb5145e3a019
-SHA256: 539daac87eec760c6cefe695a3501eb27292c64e23cb1a179a34a07574d7df23
+Filename: pool/main/Nebo_0.4.3_arm64.deb
+Size: 14799370
+MD5sum: 2fd0c68ab94173af5d0504251dc636a5
+SHA1: 35cfd7d9a6d90758436361931025c3ba6059874d
+SHA256: 3f00ad5d31bafeab81347e6f94ae83a05a962bb2571cb0afabe17ff1319615f9
 Priority: optional
 Description: (none)
  (none)
