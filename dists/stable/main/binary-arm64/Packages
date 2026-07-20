@@ -5,10 +5,10 @@ Maintainer: neboai
 Installed-Size: 240817
 Depends: libappindicator3-1, libwebkit2gtk-4.1-0, libgtk-3-0
 Filename: pool/main/Nebo_0.12.6_amd64.deb
-Size: 97771102
-MD5sum: 9485205be40fd899cca6746626d4170b
-SHA1: 05e55ed29d31be91918668ceb0bacf03ed8c2f70
-SHA256: 2c017c34d1f8aab0dd96059cfa8cce403b2118f2a2d6a0135a948769fb290d97
+Size: 97770948
+MD5sum: ed38441f3109868511dba9d3d4704261
+SHA1: 83a0736f431a1fa98f131959c11055280c49fdcc
+SHA256: 8b88059b490adbcceaea486d236aefa0e62a9975c741739fb5f5109bf04b0c0f
 Priority: optional
 Description: (none)
  (none)
