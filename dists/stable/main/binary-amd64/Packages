@@ -1,14 +1,14 @@
 Package: nebo
-Version: 0.12.16
+Version: 0.12.17
 Architecture: amd64
 Maintainer: neboai
-Installed-Size: 244593
+Installed-Size: 244576
 Depends: libappindicator3-1, libwebkit2gtk-4.1-0, libgtk-3-0
-Filename: pool/main/Nebo_0.12.16_amd64.deb
-Size: 99427050
-MD5sum: fc9c3f9c0bc0f6170a64ca4ad121b19e
-SHA1: b979b1c90333b817a9ffbf0072bc5cf3ec21f034
-SHA256: 060704dd3f28837f4799bb893002aecf94191fd5db80882700538af95283d8e3
+Filename: pool/main/Nebo_0.12.17_amd64.deb
+Size: 99437646
+MD5sum: 0b4828664c56188a705b7763025be555
+SHA1: 543effe97f83dc749addca64485542e42a973a2d
+SHA256: 890fdf119e5fdc6e5fe15859aa30d7e5a0f494e74223e5f550ec24c1ce6acb6a
 Priority: optional
 Description: (none)
  (none)
